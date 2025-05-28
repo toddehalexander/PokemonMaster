@@ -1,6 +1,9 @@
 # Pokemon-master
 The goal of this project is to create a Pokemon battle game where players can compete against an AI opponent. The game will simulate the core mechanics of the Pokemon franchise, including choosing a team of Pokemon, battling with moves and abilities, and determining a winner based on the remaining Pokemon's health.
 
+![image](https://github.com/user-attachments/assets/80fdb386-181c-4d29-b209-a80bdc9ffebe)
+
+
 ## Datasets uses
 [https://pokeapi.co/](https://pokeapi.co/) - Pokémon data accessible through a modern free open-source RESTful API
 
